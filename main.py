@@ -1,4 +1,6 @@
 import time
 
-time.sleep(600)
-print("executing...")
+sleep_time = 592
+print(f"Commit 2: sleeping for {sleep_time} seconds...")
+time.sleep(sleep_time)
+print("Done!")
