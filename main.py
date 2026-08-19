@@ -1,6 +1,6 @@
 import time
 
-sleep_time = 594
+sleep_time = 81
 print(f"Commit 29: sleeping for {sleep_time} seconds...")
 time.sleep(sleep_time)
 print("Done!")
